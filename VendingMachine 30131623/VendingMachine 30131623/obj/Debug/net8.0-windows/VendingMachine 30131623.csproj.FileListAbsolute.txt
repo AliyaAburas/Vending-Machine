@@ -1,0 +1,34 @@
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.exe
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.deps.json
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.runtimeconfig.json
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.dll
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.pdb
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine_30131623.Form1.resources
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine_30131623.Properties.Resources.resources
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.csproj.GenerateResource.cache
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.AssemblyInfoInputs.cache
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.AssemblyInfo.cs
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.csproj.CoreCompileInputs.cache
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.dll
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\refint\VendingMachine 30131623.dll
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.pdb
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.genruntimeconfig.cache
+C:\Users\Aliya\source\repos\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\ref\VendingMachine 30131623.dll
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine_30131623.Form1.resources
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine_30131623.Properties.Resources.resources
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.csproj.GenerateResource.cache
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.AssemblyInfoInputs.cache
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.AssemblyInfo.cs
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.csproj.CoreCompileInputs.cache
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.dll
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\refint\VendingMachine 30131623.dll
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.pdb
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.exe
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.deps.json
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.runtimeconfig.json
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.dll
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\bin\Debug\net8.0-windows\VendingMachine 30131623.pdb
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\VendingMachine 30131623.genruntimeconfig.cache
+C:\Users\Aliya\Documents\VendingMachine 30131623\VendingMachine 30131623\obj\Debug\net8.0-windows\ref\VendingMachine 30131623.dll
